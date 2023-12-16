@@ -53,3 +53,12 @@ Notebooks can be found in individual folders in the repo, Ex. `np` contains note
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
+- [Scikit-Learn](https://scikit-learn.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [PyTorch](https://pytorch.org/)
+- [FastAI](https://www.fast.ai/)
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
