@@ -9,6 +9,10 @@
 To create a new environment with dependencies to use:
 
 ```sh
+# For an empty environment
+conda create --prefix ./env
+
+# Env with some tools
 conda env create --prefix ./env pandas scikit-learn and-all-other-dependencies-here
 ```
 

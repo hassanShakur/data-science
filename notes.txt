@@ -1,1 +1,6 @@
 uci data sets - for ml data sets download
+
+Figuring out best models:
+    - CatBoost.ai
+    - XGBoost.ai
+
