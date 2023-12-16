@@ -17,6 +17,7 @@ conda env create --prefix ./env pandas scikit-learn and-all-other-dependencies-h
 ```
 
 To export an already created environment so it can be replicated:
+
 - Activate the `env` you want to track:
 
 ```sh
@@ -37,4 +38,13 @@ You can always deactivate an environment through:
 conda deactivate
 ```
 
+## About the Project
 
+This project is a collection of notebooks and scripts that I use to learn and practice data science and machine learning. It starts from the very basics and goes on to more advanced topics. The project is divided into two main parts:
+
+- **Data Science**: This part is about data analysis and visualization. It covers the basics of data analysis and visualization using `pandas`, `matplotlib`, `seaborn`, and `plotly`. It also covers some advanced topics such as time series analysis and geospatial data analysis.
+- **Machine Learning**: This part is about machine learning. It covers the basics of machine learning using `scikit-learn`. It also covers some advanced topics such as deep learning and natural language processing.
+
+## About the Notebooks
+
+Notebooks can be found in individual folders in the repo, Ex. `np` contains notebooks for `numpy`. As for advanced Machine learning and Deep learning, I used [Google Colab](https://colab.research.google.com/) to run the notebooks. The links to the notebooks are provided in the `README.md` files in the respective folders.
