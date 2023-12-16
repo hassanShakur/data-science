@@ -48,3 +48,8 @@ This project is a collection of notebooks and scripts that I use to learn and pr
 ## About the Notebooks
 
 Notebooks can be found in individual folders in the repo, Ex. `np` contains notebooks for `numpy`. As for advanced Machine learning and Deep learning, I used [Google Colab](https://colab.research.google.com/) to run the notebooks. The links to the notebooks are provided in the `README.md` files in the respective folders.
+
+## References
+
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
